@@ -1,0 +1,2 @@
+# Lamp-website
+deadlinks
